@@ -1,2 +1,2 @@
 # VehicleInheritance
-Application with an engine model and inherit it with car, bike and  create an object of the classes.
+This code defines classes for Engine, Car, and Bike, where Car and Bike inherit from Engine. Objects of Car and Bike classes are instantiated with specific attributes, and methods are called to print relevant data.
